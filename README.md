@@ -11,3 +11,6 @@ My second practise
 
 
 [![Releases](https://img.shields.io/github/release/<github-username>/sem/all.svg?style=flat-square)](https://github.com/DamianFloyd/sem/releases)
+
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/DamianFloyd/henry/main.yml?branch=develop)
